@@ -4,4 +4,4 @@ app = FastAPI()
 
 @app.get("/")
 async def index():
-    return {"message": "alhamdulillah wa syukurillah. Allahu Akbar!"}
+    return {"message": "alhamdulillah wa syukurillah. Allahu Akbar! Allahu Akbar!"}
