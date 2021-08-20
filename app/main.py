@@ -1,9 +1,9 @@
 from fastapi import FastAPI
-from app.db import engine, database, metadata
+# from app.db import engine, database, metadata
 from app.d_user import users
 from app.d_vaksin import vaksin
 
-metadata.create_all(engine)
+# metadata.create_all(engine)
 
 app = FastAPI()
 
@@ -21,5 +21,5 @@ app = FastAPI()
 async def index():
     return "bismillah"
 
-app.include_router(users.router, prefix="/users", tags=["users"])
+# app.include_router(users.router, prefix="/users", tags=["users"])
 app.include_router(vaksin.router, prefix="/vaksin", tags=["vaksin"])

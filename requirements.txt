@@ -1,8 +1,4 @@
 fastapi~=0.68.0
 uvicorn
-databases==0.4.3
-sqlalchemy==1.3.24
-psycopg2-binary==2.9.1
-asyncpg==0.24.0
 gspread
 oauth2client
