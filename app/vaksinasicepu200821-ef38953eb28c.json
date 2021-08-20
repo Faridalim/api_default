@@ -1,0 +1,12 @@
+{
+  "type": "service_account",
+  "project_id": "vaksinasicepu200821",
+  "private_key_id": "ef38953eb28c117871aba19639ddfec26b71f630",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvAIBADANBgkqhkiG9w0BAQEFAASCBKYwggSiAgEAAoIBAQDrYSYaV7nO4wRS\n/POYWyQH0i2d4QmJBSxHV0LcabSdlUksej5XTLtS6gJvCmL5APlMwunF2U5OcfVF\n/YiFBKAzaUARpzZ2ZtPJRjArE0MwTVRSygqd+ByK55hwVV86KWR1r4o9NjY5o8sd\nUVmjZhijfNs5Ildu4KCpXVl5rtDoWmsK9Y/PaFmMVnGMirJGbPesMwJyajc4Leiz\n+QaWwS4a+Jt8NpZMZDEQnLvOZJtux+1UQAIHVEJBL6faEEuWxYwdlCpVlS2BYLSO\nWQ2S7qG0wmV/fn6X8qHbWPB9Ic+5yMQbXwxgb3CDRcGIWf8sO6lFDI1x/iNicENt\nj0tfLKHdAgMBAAECggEATrSLYx+WV+F9HqrKYVWIdL0I19PZtmFubuR0zPLjnBXB\nBAhUNCjKMm1hJvQYKB71PX+nX6rMDlr4otCmB6SGVOqKq9x3z5uOkazQinbEbrBM\n0+oPJsdB9AiA5n8FepNArkFmPhWUiC2Gy2TaTlLjRjeHrlEXX1HpJvi55IBaBnch\nRUXC2edrXk45yVkijPb/NaamrAnrAmrLiz8qEIPAij9zC+AqQoR4qGd6l60Z003C\nospfFnmoavipCQl/+foSjGggfGSwlYEpeiJP3X6pGsJKmM/tgXJuywibEd+sz+qx\nvX+k/QNh4PK9kPyU4gVj+gCdil99tyF+6Fz/VRxBGQKBgQD6jqvO3LSxdvbXkOoW\nBQGB2u6ZM34MdEojYOZC3v8Z0KMkFIdii1b15J7OXlicR4axSh4GDqBjnh8Lb+it\ns1OOEW2g/sy4tNsHrWY+/QkQGPTheHejMh5FO9mr4MgYvwHbMtWT/4RQMc/IPu/y\nS/BtY31D8/Khi89M1sWccNxi4wKBgQDwfhM4dYmQI3d6fj69UISrAoUyJTEaJkE0\nQa6iW5DQxKsOpgFrMGVwqlHc5+J8DYksVR6fCvD0zVdbd1NpmxYScE3q+KircfdO\nfwJAKRWNMxeWWve8nHqSKAU2hEDe6d3/W+R9rK8L/NQ359gesiWMNrz4GpJ0+xv5\nfODROmREPwKBgAuz4DhwPIxRZyQYY6aVo0ViaWSEcC26vL+8ReT3r2iQQx5rSwuC\nQJSJkhVHeNIL0TG0qYRU6I7eksqg9ngueQeYrssnO36hC93m7nCgtuymjcF+M/BO\nZfWL3xXVEON/AGIxlKIt/AsW2IKc1e42N8uUKwSif0GmWw9WtLIi31hLAoGAJDFl\nJR8TR9z+kzHCsW0XukDT2NseC6hsMbgc1xRes/yVHcw/9GjBK3aGgW9od3D2DvT0\nec0EvGLW3c4UgJU1eirqnw0zHTI2nNqidRN5ydlBmIAyPnFyROK+/hhjRuj9Xvvu\nZDeD1JMFQTCkJuJ6oiJuyAv/tJlB+YcgsnxOMLMCgYAqybwWm3lhxi0opkWw4EjD\nrEgUow2JoO66AV6Kn1npjyg+bYE+jIoIlUrGiIjyZk1PiL6twTlO62fsUwvVvJ1e\ncHbM5u2k6oPNz1apN2j5in1beAEsOAwRZAJ5qT0vOqQcp49Mqm6qdssvw3sC0Z6j\npitFsdIwvz+oS0RYwJynIQ==\n-----END PRIVATE KEY-----\n",
+  "client_email": "vaksinasi@vaksinasicepu200821.iam.gserviceaccount.com",
+  "client_id": "111678862460393373980",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/vaksinasi%40vaksinasicepu200821.iam.gserviceaccount.com"
+}
