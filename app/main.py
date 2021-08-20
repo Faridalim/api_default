@@ -17,5 +17,9 @@ app = FastAPI()
 #     await database.disconnect()
 #     print("db disconnected")
 
+@app.get("/")
+async def index():
+    return "bismillah"
+
 app.include_router(users.router, prefix="/users", tags=["users"])
 app.include_router(vaksin.router, prefix="/vaksin", tags=["vaksin"])
