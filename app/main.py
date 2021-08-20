@@ -1,6 +1,6 @@
 from fastapi import FastAPI
 # from app.db import engine, database, metadata
-from app.d_user import users
+# from app.d_user import users
 from .d_vaksin import vaksin
 
 # metadata.create_all(engine)
